@@ -1,0 +1,1 @@
+java -jar ../Core_LMS.jar -ORBInitialPort 1713 -name "LMS_QUEENS"

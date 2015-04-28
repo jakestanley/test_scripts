@@ -1,0 +1,1 @@
+java -jar ../Meta_TimeServer.jar -ORBInitialPort 1713

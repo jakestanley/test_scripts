@@ -1,0 +1,1 @@
+java -jar ../Client_Resident.jar -ORBInitialPort 1713 -fname Ted -lname Green -email torbay_dude@coolmail.com -location Torbay

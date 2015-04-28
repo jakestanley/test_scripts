@@ -1,0 +1,1 @@
+java -jar ../Meta_MessageServer.jar -ORBInitialPort 1713

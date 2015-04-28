@@ -1,0 +1,1 @@
+java -jar ../Core_RMC.jar -ORBInitialPort 1713
