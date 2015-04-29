@@ -1,1 +1,1 @@
-java -jar ../Client_Resident.jar -ORBInitialPort 1713 -fname Robyn -lname Fisherman -email torbay_girl@coolmail.com -location Torbay -submit -agency
+java -jar ../Client_Resident.jar -ORBInitialPort 1713 -aname "Ambulance" -submit -agency
