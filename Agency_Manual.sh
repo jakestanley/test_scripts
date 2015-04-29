@@ -1,0 +1,1 @@
+java -jar ../Client_Resident.jar -ORBInitialPort 1713 -agency
