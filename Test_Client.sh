@@ -1,1 +1,1 @@
-java -jar ../Test_Client.jar -ORBInitialPort 1713 -sensors "Sensor_KINGS_1" "Sensor_KINGS_2" "Sensor_QUEENS_1" "Sensor_QUEENS_2"
+java -jar ../Maintenance_Client.jar -ORBInitialPort 1713 -testing
