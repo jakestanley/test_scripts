@@ -1,0 +1,1 @@
+java -jar ../Core_Sensor.jar -ORBInitialPort 1713 -name "Sensor_KINGS_3" -lms "LMS_KINGS" -zone "Exeter"
